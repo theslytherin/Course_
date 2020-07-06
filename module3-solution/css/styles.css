@@ -11,6 +11,7 @@
         src: url(font/Great_Wishes.otf);
       }
       * {
+          font-family: myFirstFont;
         box-sizing: border-box;
       }
       .row {
