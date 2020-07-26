@@ -11,12 +11,12 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 3
 * [Assignment description](./descriptions/assignment3/Assignment-3.md)
-* [Solution](https://g.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution](https://github.com/theslytherin/HTML-CSS-and-Javascript-for-Web-Developers-by-Johns-Hopkins-University-/tree/master/module3-solution)
 
 ### Module 4
 * [Assignment description](./descriptions/assignment4/Assignment-4.md)
-* [Solution](https://ge.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution](https://github.com/theslytherin/HTML-CSS-and-Javascript-for-Web-Developers-by-Johns-Hopkins-University-/tree/master/module4-solution)
 
 ### Module 5
 * [Assignment description](./descriptions/assignment5/Assignment-5.md)
-* [Solution](https://g.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution](https://github.com/theslytherin/HTML-CSS-and-Javascript-for-Web-Developers-by-Johns-Hopkins-University-/tree/master/module5-solution)
