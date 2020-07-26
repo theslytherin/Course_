@@ -6,7 +6,7 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Assignment description](./descriptions/assignment2/Assignment-2.md)
+* [Assignment description](./Details/assignment1/assignment2/Assignment-2.md)
 * [Solution](https://github.com/theslytherin/HTML-CSS-and-Javascript-for-Web-Developers-by-Johns-Hopkins-University-/tree/master/module2-solution)
 
 ### Module 3
